@@ -13,5 +13,13 @@
     "start": "node server.js"
   },
   "author": "mike lazer",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlazear10/herokuDeploy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mlazear10/herokuDeploy/issues"
+  },
+  "homepage": "https://github.com/mlazear10/herokuDeploy#readme"
 }
